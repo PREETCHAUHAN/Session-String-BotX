@@ -76,5 +76,3 @@ Press `Ctrl+b` and then `d`
 - <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
 
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/StringGenBot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
-
-━━━━━━━━━━━━━━━━━━━━
