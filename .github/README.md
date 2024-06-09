@@ -1,5 +1,3 @@
-━━━━━━━━━━━━━━━━━━━━
-
 <h2 align="center">
     ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
@@ -9,7 +7,6 @@
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
-━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
 <a href="https://github.com/AnonymousX1025/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
@@ -18,8 +15,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
 <a href="https://github.com/AnonymousX1025/StringGenBot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
-
-━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
@@ -70,7 +65,6 @@ Press `Ctrl+b` and then `d`
 
 </details>
 
-━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
@@ -81,8 +75,6 @@ Press `Ctrl+b` and then `d`
 <p align="center">
 <a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
-━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛs 」─
