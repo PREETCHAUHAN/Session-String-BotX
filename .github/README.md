@@ -6,7 +6,7 @@
   <img src="https://telegramic.org/media/avatars/bots/2125098059.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [String Session Generator - X](https://t.me/StringSessionGeneratorX_bot)**_
 
 <p align="center">
   <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
