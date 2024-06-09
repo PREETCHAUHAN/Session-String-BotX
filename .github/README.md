@@ -8,7 +8,7 @@
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [String Session Generator - X](https://t.me/StringSessionGeneratorX_bot)**_
 
-<p align="center">
+<p align="left">
     <img src="https://github.com/PREETCHAUHAN/Session-String-BotX/assets/33035404/214db9ee-261c-456b-b6a1-a3d25290395b">
 
 </p>
