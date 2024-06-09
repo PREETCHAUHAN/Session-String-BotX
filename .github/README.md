@@ -1,4 +1,4 @@
-<h2 align="center">
+ <h2 align="center">
     ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
 
