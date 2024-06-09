@@ -1,8 +1,8 @@
-<h2 align="center">
+<h2 align="left">
     ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
 
-<p align="center">
+<p align="left">
   <img src="https://telegramic.org/media/avatars/bots/2125098059.jpg">
 </p>
 
@@ -65,7 +65,7 @@ Press `Ctrl+b` and then `d`
 <p align="left">
 <a href="https://telegram.me/MrBot02"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://telegram.me/preetmodz"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
