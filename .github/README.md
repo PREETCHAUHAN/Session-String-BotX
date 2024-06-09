@@ -1,8 +1,8 @@
-<h2 align="left">
+<h2 align="center">
     ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://telegramic.org/media/avatars/bots/2125098059.jpg">
 </p>
 
