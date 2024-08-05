@@ -36,7 +36,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [String Session Gene
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/PREETCHAUHAN/Session-String-BotX && cd StringGenBot`
+`git clone https://github.com/PREETCHAUHAN/Session-String-BotX && cd Session-String-BotX`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
